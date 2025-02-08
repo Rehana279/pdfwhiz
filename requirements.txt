@@ -1,0 +1,11 @@
+docx
+langchain
+langchain_community
+openai
+Pillow
+PyPDF2
+pytesseract
+python_docx
+streamlit
+transformers
+torch
